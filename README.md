@@ -26,8 +26,11 @@ environment_name\Scripts\activate
    ```
 
 - lxml 
+`
   -- It provides safe and convenient access to these libraries using the ElementTree API.
--BeautifulSoup
-  --Used to get the data out of target HTML or JAVASCRIPT or XML
+  `
+  
+- BeautifulSoup
+   -- Used to get the data out of target HTML or JAVASCRIPT or XML
  
 
